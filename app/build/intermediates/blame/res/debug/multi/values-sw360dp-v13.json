@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/values-sw360dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 3,
+                        "startOffset": 409,
+                        "endColumn": 39,
+                        "endOffset": 445
+                    }
+                }
+            }
+        ]
+    }
+]

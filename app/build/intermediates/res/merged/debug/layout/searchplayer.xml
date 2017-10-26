@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SEARCH FOR YOUR FRIEND TO PLAY WITH:"
+        android:textStyle="bold"/>
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Search using Email id"/>
+
+    <EditText
+        android:id="@+id/SearchEmailEditTextXmlArg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ENTER YOUR FRIEND'S EMAIL ID"
+        android:background="@drawable/buttonshapeoval"/>
+
+    <TextView
+        android:id="@+id/searchResultsTextView"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n SEARCH RESULTS:"/>
+
+    <Button
+        android:id="@+id/playButtonAfterSearchid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Search First, Then Send Notification"/>
+
+    <Button
+        android:id="@+id/SendNotificationToSearchedPlayerButton"
+        android:onClick="SendNotificationToSearchedPlayer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Send Notification to searched Friend"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="We are currently searching using email id only and returning back your Firned's First name and last name. More options to search on will be added later in next update as planned in the previous screen of user addition."/>
+
+</LinearLayout>

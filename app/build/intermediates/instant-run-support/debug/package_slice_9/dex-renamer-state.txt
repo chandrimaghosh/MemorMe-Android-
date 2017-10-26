@@ -1,0 +1,4 @@
+#Fri Apr 28 04:22:33 EDT 2017
+base.0=/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

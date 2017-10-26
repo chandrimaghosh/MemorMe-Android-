@@ -1,0 +1,70 @@
+<resources>
+    <string name="about">About Me</string>
+    <string name="name">\nSyed Aman Alam</string>
+    <string name="email">Email: alam.sy@husky.neu.edu</string>
+    <string name="currentYear">\nMS 1st Year</string>
+    <string name="degree">MS Computer Science \n</string>
+    <string name="quit">I Quit!</string>
+    <string name="error">Generate Error</string>
+    <string name="TicTacToe"> Tic Tac Toe</string>
+    <string name="app_name">NUMAD17S-SyedAmanAlam</string>
+    <string name="long_app_name">Ultimate Tic Tac Toe</string>
+    <string name="action_settings">Settings</string>
+    <string name="restart_label">Restart</string>
+    <string name="main_menu_label">Main Menu</string>
+    <string name="declare_winner">%1$s is the winner</string>
+    <string name="continue_label">Continue</string>
+    <string name="new_game_label">New Game</string>
+    <string name="about_title">About Ultimate Tic Tac Toe</string>
+    <string name="about_label">About</string>
+    <string name="ok_label">OK</string>
+    <string name="about_text">\
+This game is played just like
+regular Tic Tac Toe with one difference: to win a tile
+you have to win a smaller game of Tic Tac Toe inside that tile.\n\
+\n\
+A tie happens when there are no further moves.
+In the case of a tie in a small board, that will count as a win for
+both sides in the larger game.
+</string>
+    <string name="scoring">\
+
+    </string>
+    <string name="intro">\
+    The game consists of nine 3 by 3 boards as shown in picture
+        \n\ In each 3*3 board, you will enjoy playing the awesome game of Boggle.
+        \n\ The timer runs for 90 seconds.
+        \n\ However there is a secret bonus round which can come anytime during the game play but only once during the game.
+         During that 3 second window, a flying brick will appear which will change its position every second.
+        \n\ Your goal is to catch the brick and press it.
+        \n\ If you are able to do so, your timer resets to 90 seconds even if you have 1 second left before.
+        \n\ The scoring is Simple: Words greater than 6 will be valued
+        as 4 points per character
+         Other words will get you 2 points per character!
+        \n\ Just a word of caution- The world is made open to you as a challenge. You can jump from 1 box to another after submitting each small square word.
+        \n\ But the longest word can still be of 9 characters.
+        \n\ Good Luck!
+    </string>
+    <string name="Dict">Dictionary</string>
+    <string name="wordGame">Scroggle </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="username">User Name</string>
+    <string name="score">Score</string>
+    <string name="add5">Add 5</string>
+    <string name="go_to_fcm_demo">FCM Demo</string>
+    <string name="go_to_realtime_database_demo">Realtime Database Demo</string>
+    <string name="quickstart_message">The Log Token button logs the Registration token to the log. The Send Notification Button sends the notification to the client device.</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="log_token">Log Token</string>
+    <string name="msg_subscribed">Subscribed to news topic</string>
+
+    <string name="title_activity_splash_screen_final_project">splashScreenFinalProject</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="getUserNameString"> Please enter name below </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="submitAnswer">Submit Answer</string>
+</resources>

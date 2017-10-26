@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:paddingBottom="10dp"
+    tools:context=".twoPlayerWordGame.twoPlayerGameActivity">
+
+
+    <Button
+        android:id="@+id/button_two_Player_restart"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="RESTART" />
+
+    <Button
+        android:id="@+id/button_two_Player_main"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="HOME" />
+
+    <TextView
+        android:id="@+id/timerid2Player"
+        android:layout_width="0dp"
+        android:background="@color/gray_color"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="TIMER"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/CheckWordButton2Player"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:onClick="checkword"
+        android:text="CHECK WORD" />
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="MUSIC"
+        android:id="@+id/NoMusic2Player"
+        />
+</LinearLayout>

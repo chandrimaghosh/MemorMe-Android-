@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82B1FF"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context="syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.getOfficeLocation">
+
+    <TextView
+        android:id="@+id/selectOfficeLocationText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Press the button below to select office location: "
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/updateTextViewWithOfficeLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/selectOfficeLocationText"
+        android:layout_marginTop="10dp"
+        android:text="Selected Location: No location selected yet..."
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/selectOfficeLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/submitOfficeLocation"
+        android:text="Select office Location" />
+
+    <Button
+        android:id="@+id/submitOfficeLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Submit Office Location" />
+
+</RelativeLayout>

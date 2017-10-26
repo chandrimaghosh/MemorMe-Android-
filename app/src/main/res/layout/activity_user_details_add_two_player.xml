@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerWordGame.userDetailsAddTwoPlayer">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="ENTER DETAILS FOR MULTIPLAYER GAME: We will use it only to search for your friends."
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/givenName2Player"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/buttonshapeoval"
+            android:hint="Enter your Given Name: THIS FIELD CAN'T BE LEFT EMPTY*" />
+
+        <EditText
+            android:id="@+id/lastName2Player"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/buttonshapeoval"
+            android:hint="Enter your Last Name: THIS FIELD CAN'T BE LEFT EMPTY*" />
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="ENTER YOUR EMAIL ID:"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/userEmailId2Player"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttonshapeoval"
+        android:hint="Please enter your email id: THIS FIELD CAN'T BE LEFT EMPTY *" />
+
+    <Button
+        android:id="@+id/saveUserDataButton2Player"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/buttonshapeoval"
+        android:text="START 2 PLAYER GAME" />
+
+    <Button
+        android:id="@+id/twoPlayerCommAcknow2Player"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:background="@drawable/buttonshapeoval"
+        android:text="ACKNOWLEDGEMENTS" />
+
+</LinearLayout>

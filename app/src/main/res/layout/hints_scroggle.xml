@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/BriefDesc">
+
+        <include
+            android:elevation="10dp"
+            android:id="@+id/Scr_large1"
+            layout="@layout/small_scroggleboard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_margin="@dimen/small_board_margin"
+            android:layout_row="0" />
+
+
+        <TextView
+            android:padding="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/blue_color"
+            android:textStyle="bold"
+            android:text="The game consists of 9 such 3 by 3 boards. In each 3*3 board, you will enjoy playing the awesome game of Boggle. In phase 2, you will play with just one 3*3 board."/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/gameScoreDef"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The scoring is Simple: Words greater than 6 will be valued as 4 points per character\n Other words will get you 2 points per character!\nIN PHASE 2 TRY WAVING YOUR HAND OVER THE BOARD! SECRET RECIPE- SENSORS!"
+        android:layout_below="@+id/BriefDesc"
+        android:textStyle="bold"
+        android:background="@color/blue_color"
+        />
+
+    <Button
+        android:id="@+id/twoPlayerGameStartButton"
+        android:layout_below="@+id/gameScoreDef"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2 PLAYER GAME"
+        android:onClick="sendTowardsTwoPlayerActivity"/>
+
+    <TextView
+        android:background="@color/blue_color"
+        android:layout_below="@+id/timerDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Just a word of caution- The world is made open to you as a challenge. You can jump from 1 box to another after submitting each small sqaure word. But the longest word can still be of 9 characters."/>
+
+
+    <Button
+        android:id="@+id/RealGameStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:onClick="startRealGame"
+        android:text="1 Player Game: START NOW!" />
+
+</LinearLayout>

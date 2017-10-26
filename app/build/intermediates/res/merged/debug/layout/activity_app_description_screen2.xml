@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#448AFF"
+    android:padding="10dp"
+    tools:context="syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.AppDescriptionScreen">
+
+    <ScrollView
+        android:layout_above="@+id/ackButtonDescrScreen"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:background="#82B1FF"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_margin="10dp"
+            android:id="@+id/appDescriptionScreenTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="App description"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/ackButtonDescrScreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/launchFinalProjectFromDescrp"
+        android:text="Acknowledgements" />
+
+    <Button
+        android:id="@+id/launchFinalProjectFromDescrp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Final Project" />
+</RelativeLayout>

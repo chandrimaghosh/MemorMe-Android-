@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 68,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 68,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 40,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/values-sw720dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 3,
+                        "startOffset": 409,
+                        "endColumn": 39,
+                        "endOffset": 445
+                    }
+                }
+            }
+        ]
+    }
+]

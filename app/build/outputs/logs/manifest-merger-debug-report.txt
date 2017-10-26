@@ -1,0 +1,821 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:2:1-228:12
+	package
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:3:5-67
+		INJECTED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:7:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/chandrimaghosh/.android/build-cache/af145a2e9537b29e7e19b36586f824383ef70371/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/4f8ebf33d4451889660dd84a29bfd9eac66eb52b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /Users/chandrimaghosh/.android/build-cache/46ea9dd3d063b04aea65824483c3e21ad28badf3/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/43ca160651d598fa88f8241fdd59f3d3efae846e/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ca7df654506800eb8609c3118218673bb49f8de/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/36df8a4d6f7b459f87ec324170d584a062e40441/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:11:5-94
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:11:22-91
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/chandrimaghosh/.android/build-cache/af145a2e9537b29e7e19b36586f824383ef70371/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/4f8ebf33d4451889660dd84a29bfd9eac66eb52b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/chandrimaghosh/.android/build-cache/08c0070b230111d4e371a13ba24c54cf716c69b3/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /Users/chandrimaghosh/.android/build-cache/94142d775d75d07e99662e4e6af01359b1f05126/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/chandrimaghosh/.android/build-cache/1c73c308cc423fb5ce68b92b68d9660d76e91ce1/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/3691917fb6c9690ee3302642b385ab90b89a331f/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/43ca160651d598fa88f8241fdd59f3d3efae846e/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ca7df654506800eb8609c3118218673bb49f8de/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/36df8a4d6f7b459f87ec324170d584a062e40441/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:14:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:15:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:16:22-78
+application
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:18:5-226:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/chandrimaghosh/.android/build-cache/3ba8bf023fb4efab2f90dbdcb2b8eef2dfe71483/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/chandrimaghosh/.android/build-cache/ad3a7a7d9501ef00509c199e87542c7095cbd57a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/chandrimaghosh/.android/build-cache/5eff4fc6a30ccd4a2b5040836602dd2b720fa489/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services:10.2.0] /Users/chandrimaghosh/.android/build-cache/865d93a0548ab06791a87e1fa78415fd6ff4f65b/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/chandrimaghosh/.android/build-cache/af145a2e9537b29e7e19b36586f824383ef70371/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/4f8ebf33d4451889660dd84a29bfd9eac66eb52b/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/chandrimaghosh/.android/build-cache/08c0070b230111d4e371a13ba24c54cf716c69b3/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/a2bb996f350f6faf7922b643f64ddcd30633e469/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /Users/chandrimaghosh/.android/build-cache/71c8e9167c6a7a15bb75c1e36c670751645ecd89/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/chandrimaghosh/.android/build-cache/d396abfc9f7aa655bac639733d580e5c7832ad6a/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/chandrimaghosh/.android/build-cache/10c9b2835898eb5364662c9bfd06471a43452289/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/chandrimaghosh/.android/build-cache/7d5018e7ed31ac460330eaf868e66381e8c27f19/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/chandrimaghosh/.android/build-cache/c845bdcf899c303ccfe807e4edd79a81c5fd08d6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.0] /Users/chandrimaghosh/.android/build-cache/8942e9619b0700c765c2755544d83b5f43b4d326/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /Users/chandrimaghosh/.android/build-cache/0312d1fbe862b9ba371dfdfd6d0308fc7e429023/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /Users/chandrimaghosh/.android/build-cache/94142d775d75d07e99662e4e6af01359b1f05126/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/ef7181b77c8c00f87c1fabd0422efc2d577fa574/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /Users/chandrimaghosh/.android/build-cache/2947e3aa47f8edb8c94b70b6eb06dffa16760e2c/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /Users/chandrimaghosh/.android/build-cache/686ea7ee6b05a4d7e90bebd25942c639b5f39fc1/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /Users/chandrimaghosh/.android/build-cache/2f2b8fcc213247ef97fd71ae61cbc9eaf274599c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /Users/chandrimaghosh/.android/build-cache/6b1cae7e6941a2647bc28192d61243fd4803eb53/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/chandrimaghosh/.android/build-cache/4c4aa9032d8a1eeed3177df288784fe968506f41/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/chandrimaghosh/.android/build-cache/1c73c308cc423fb5ce68b92b68d9660d76e91ce1/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /Users/chandrimaghosh/.android/build-cache/f3e6fa277e0e1542d182525e707632e69a2579d4/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/3691917fb6c9690ee3302642b385ab90b89a331f/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /Users/chandrimaghosh/.android/build-cache/315c24fdc52b0b4d9c9e7d50481b15da77c8c29d/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /Users/chandrimaghosh/.android/build-cache/46ea9dd3d063b04aea65824483c3e21ad28badf3/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /Users/chandrimaghosh/.android/build-cache/eb83105f51b38b32d262a10d301356e2bd6029ca/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /Users/chandrimaghosh/.android/build-cache/356093a2afbeb27137024a1749da104e153f48cc/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /Users/chandrimaghosh/.android/build-cache/b9c0b652a5a5e417609cbee001504884560c65f1/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /Users/chandrimaghosh/.android/build-cache/529e4f5f556790ba5d105039ec803dfa3a1fa82a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/90144b4e6f0d4c7cdcdbc3bf2fb0cc4d009db305/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/43ca160651d598fa88f8241fdd59f3d3efae846e/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /Users/chandrimaghosh/.android/build-cache/2aa954fef7b563a47431a182526ea3ed08f930d3/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /Users/chandrimaghosh/.android/build-cache/75ac5e3359fa78e0eae3c9e97b5a3cfcfcbad640/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /Users/chandrimaghosh/.android/build-cache/a70273739d7574b36c1194163cc6deefe6f4596c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ca7df654506800eb8609c3118218673bb49f8de/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.2.0] /Users/chandrimaghosh/.android/build-cache/a088d7637f4c521aeff1829456e082bbf8d6b4d7/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/36df8a4d6f7b459f87ec324170d584a062e40441/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ba9b1fa01bb13e08bf17461ee34bf0fe5ceb034/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/chandrimaghosh/.android/build-cache/9d538497bae583e32eb370dc568f4087aab3bdec/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/chandrimaghosh/.android/build-cache/ee832aad8a51121afedffc4771fcc9d8b09e515c/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/chandrimaghosh/.android/build-cache/b07508b94fb85af3a9ea45a658181fb7f465452d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/chandrimaghosh/.android/build-cache/a583da7d3565ccf9b205d111fbb5891559791848/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/chandrimaghosh/.android/build-cache/1d39937880487fe812558c92592bfdc8d659b53b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/chandrimaghosh/.android/build-cache/24d5fdde8b0cc2bc14d76b318204e96165b2727c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/chandrimaghosh/.android/build-cache/900c5619ac3cfa73c6898959c1e65e7726139f51/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/chandrimaghosh/.android/build-cache/4250230cd5eb1250d4c8715401cf3400d5fddd7e/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:21:9-41
+	android:supportsRtl
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:22:9-35
+	android:allowBackup
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:23:9-70
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.tictactoe.MainActivity
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:24:19-57
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.Main
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:26:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:31:27-74
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.tictactoe.GameActivity
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:34:9-36:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:35:13-51
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.AboutMeActivity
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:37:9-39:20
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:37:19-50
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.Dictionary.dictionaryActivity
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:40:9-42:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:41:13-58
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.Dictionary.Acknowledgement
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:43:9-46:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:46:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:45:13-72
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:44:13-55
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.scroggle.ScroggleMain
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:47:9-49:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:48:13-50
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.scroggle.ScroggleGameActivity
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:50:9-52:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:51:13-58
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.scroggle.HintClassAfterNewGame
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:53:9-56:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:56:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:55:13-64
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:54:13-59
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.scroggle.ScrogglePhaseTwo
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:57:9-59:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:58:13-54
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.scroggle.ScroggleAck
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:60:9-63:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:63:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:62:13-64
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:61:13-49
+service#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerComm.WordGameMessagingService
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:65:9-69:19
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:65:18-72
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:66:13-68:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:67:17-78
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:67:25-75
+service#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerComm.WordGameInstanceIDService
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:70:9-74:19
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:70:18-73
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:71:13-73:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:72:17-80
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:72:25-77
+service#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.ActivityRecognizedService
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:75:9-75
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:75:18-72
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.commDemo.FCMActivity
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:77:9-80:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:80:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:79:13-67
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:78:13-49
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.commDemo.twoPlayerCHoice
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:81:9-84:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:84:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:83:13-47
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:82:13-53
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerComm.userDetailsAdd
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:85:9-88:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:88:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:87:13-73
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:86:13-57
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerComm.searchPlayer
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:89:9-92:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:92:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:91:13-71
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:90:13-55
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerComm.ackTwoPlayerComm
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:93:9-96:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:96:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:95:13-71
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:94:13-59
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerWordGame.splashScreenTwoPlayer
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:97:9-100:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:100:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:99:13-47
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:98:13-68
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerWordGame.twoPlayerAckActivity
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:101:9-104:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:104:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:103:13-82
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:102:13-67
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerWordGame.twoPlayerGameActivity
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:105:9-107:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:107:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:106:13-68
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerWordGame.twoPlayerGameTutorial
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:108:9-111:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:111:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:110:13-82
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:109:13-68
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerWordGame.userDetailsAddTwoPlayer
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:112:9-114:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:114:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:113:13-70
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerWordGame.twoPlayerSearch
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:115:9-117:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:117:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:116:13-62
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.twoPlayerWordGame.highScoreActivity
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:118:9-120:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:120:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:119:13-64
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.trickiestPart.trickiestPart
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:121:9-124:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:124:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:123:13-47
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:122:13-56
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.trickiestPart.UserActivityDetection
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:125:9-127:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:127:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:126:13-64
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.trickiestPart.activityRecoAck
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:128:9-130:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:130:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:129:13-58
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.splashScreenFinalProject
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:133:9-147:20
+	android:label
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:136:13-44
+	android:icon
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:135:13-54
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:134:13-66
+intent-filter#.finalProject.splashScreenFinalProject+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:141:13-146:29
+action#.finalProject.splashScreenFinalProject
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:142:17-81
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:142:25-78
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.finalProjectAcknow
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:148:9-151:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:151:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:150:13-80
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:149:13-60
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.getOfficeLocation
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:152:9-154:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:154:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:153:13-59
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.getHomeLocation
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:155:9-157:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:157:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:156:13-57
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:159:9-161:55
+	android:value
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:161:13-52
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:160:13-58
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.prefaceDiary
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:163:9-166:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:166:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:165:13-68
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:164:13-54
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.loadingScreenBeforeMemoryGame
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:167:9-169:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:169:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:168:13-71
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.getUserName
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:170:9-173:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:173:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:172:13-80
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:171:13-53
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.questionTemplate
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:174:9-176:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:176:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:175:13-58
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.Location_Manager_Activity
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:177:9-179:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:179:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:178:13-67
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.specialNoteScreen
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:180:9-182:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:182:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:181:13-59
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.scoreOfMemorMe
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:183:9-185:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:185:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:184:13-56
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.indexOfDiary
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:186:9-189:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:189:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:188:13-68
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:187:13-54
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.animation
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:190:9-192:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:192:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:191:13-51
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.AppDescriptionScreen
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:193:9-196:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:196:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:195:13-47
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:194:13-62
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.OfficeStartTime
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:197:9-199:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:199:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:198:13-57
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.OfficeEndTime
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:200:9-202:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:202:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:201:13-55
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.DiaryPeek
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:203:9-205:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:205:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:204:13-51
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.DisplayRealtimeActivity
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:206:9-208:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:208:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:207:13-65
+meta-data#com.google.android.gms.version
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:210:9-212:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/chandrimaghosh/.android/build-cache/ee832aad8a51121afedffc4771fcc9d8b09e515c/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:212:13-66
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:211:13-58
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.MapsActivity
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:214:9-218:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:218:13-49
+	android:label
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:216:13-56
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:217:13-47
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:215:13-54
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.MainScreenAfterAnimation
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:219:9-221:52
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:221:13-49
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:220:13-66
+activity#syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.Instruc
+ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:222:9-225:61
+	android:screenOrientation
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:225:13-49
+	android:parentActivityName
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:224:13-80
+	android:name
+		ADDED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml:223:13-49
+uses-sdk
+INJECTED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.6] /Users/chandrimaghosh/.android/build-cache/09f7edc5b2dad2d94434c63e955de640567aa7ce/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/chandrimaghosh/.android/build-cache/3ba8bf023fb4efab2f90dbdcb2b8eef2dfe71483/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/chandrimaghosh/.android/build-cache/ad3a7a7d9501ef00509c199e87542c7095cbd57a/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/chandrimaghosh/.android/build-cache/c01d22adf85de0fa02457493a7e88a3fe3b09dd7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/chandrimaghosh/.android/build-cache/5eff4fc6a30ccd4a2b5040836602dd2b720fa489/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:10.2.0] /Users/chandrimaghosh/.android/build-cache/865d93a0548ab06791a87e1fa78415fd6ff4f65b/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] /Users/chandrimaghosh/.android/build-cache/4d63bb5b6bf5217e182843b1c9b5a1146dd3c076/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/chandrimaghosh/.android/build-cache/af145a2e9537b29e7e19b36586f824383ef70371/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/4f8ebf33d4451889660dd84a29bfd9eac66eb52b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/chandrimaghosh/.android/build-cache/08c0070b230111d4e371a13ba24c54cf716c69b3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/a2bb996f350f6faf7922b643f64ddcd30633e469/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] /Users/chandrimaghosh/.android/build-cache/b64e0d8aede079470960f3456668ca5d1e0a1042/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /Users/chandrimaghosh/.android/build-cache/71c8e9167c6a7a15bb75c1e36c670751645ecd89/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/chandrimaghosh/.android/build-cache/d396abfc9f7aa655bac639733d580e5c7832ad6a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/chandrimaghosh/.android/build-cache/10c9b2835898eb5364662c9bfd06471a43452289/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/chandrimaghosh/.android/build-cache/7d5018e7ed31ac460330eaf868e66381e8c27f19/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/chandrimaghosh/.android/build-cache/c845bdcf899c303ccfe807e4edd79a81c5fd08d6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.0] /Users/chandrimaghosh/.android/build-cache/8942e9619b0700c765c2755544d83b5f43b4d326/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /Users/chandrimaghosh/.android/build-cache/0312d1fbe862b9ba371dfdfd6d0308fc7e429023/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /Users/chandrimaghosh/.android/build-cache/94142d775d75d07e99662e4e6af01359b1f05126/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/ef7181b77c8c00f87c1fabd0422efc2d577fa574/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.0] /Users/chandrimaghosh/.android/build-cache/a7be625eb9f85a1087850d4e547a5abb3a63a10c/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] /Users/chandrimaghosh/.android/build-cache/adc34ad05d6f2195275826432ba5a11c9b23b8f6/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /Users/chandrimaghosh/.android/build-cache/2947e3aa47f8edb8c94b70b6eb06dffa16760e2c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.0] /Users/chandrimaghosh/.android/build-cache/af34ee0cee8ce9c0797aef0ca235bedc84a7486a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.0] /Users/chandrimaghosh/.android/build-cache/26dc4de3126123e9e158f9dbe50fc44afe75db38/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /Users/chandrimaghosh/.android/build-cache/686ea7ee6b05a4d7e90bebd25942c639b5f39fc1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /Users/chandrimaghosh/.android/build-cache/2f2b8fcc213247ef97fd71ae61cbc9eaf274599c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /Users/chandrimaghosh/.android/build-cache/6b1cae7e6941a2647bc28192d61243fd4803eb53/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/chandrimaghosh/.android/build-cache/4c4aa9032d8a1eeed3177df288784fe968506f41/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/chandrimaghosh/.android/build-cache/1c73c308cc423fb5ce68b92b68d9660d76e91ce1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /Users/chandrimaghosh/.android/build-cache/f3e6fa277e0e1542d182525e707632e69a2579d4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/3691917fb6c9690ee3302642b385ab90b89a331f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.0] /Users/chandrimaghosh/.android/build-cache/4e83fea1274b8556d927676dfc6b8bc73d029853/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /Users/chandrimaghosh/.android/build-cache/315c24fdc52b0b4d9c9e7d50481b15da77c8c29d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /Users/chandrimaghosh/.android/build-cache/46ea9dd3d063b04aea65824483c3e21ad28badf3/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /Users/chandrimaghosh/.android/build-cache/eb83105f51b38b32d262a10d301356e2bd6029ca/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /Users/chandrimaghosh/.android/build-cache/356093a2afbeb27137024a1749da104e153f48cc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /Users/chandrimaghosh/.android/build-cache/b9c0b652a5a5e417609cbee001504884560c65f1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /Users/chandrimaghosh/.android/build-cache/529e4f5f556790ba5d105039ec803dfa3a1fa82a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.0] /Users/chandrimaghosh/.android/build-cache/405c76560f9684c6a1c45dd3983986cbec8fef2a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/90144b4e6f0d4c7cdcdbc3bf2fb0cc4d009db305/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/43ca160651d598fa88f8241fdd59f3d3efae846e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /Users/chandrimaghosh/.android/build-cache/2aa954fef7b563a47431a182526ea3ed08f930d3/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.0] /Users/chandrimaghosh/.android/build-cache/3d717863775fa74f13a7f16429fe75d12917d541/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /Users/chandrimaghosh/.android/build-cache/75ac5e3359fa78e0eae3c9e97b5a3cfcfcbad640/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /Users/chandrimaghosh/.android/build-cache/a70273739d7574b36c1194163cc6deefe6f4596c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ca7df654506800eb8609c3118218673bb49f8de/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.0] /Users/chandrimaghosh/.android/build-cache/a088d7637f4c521aeff1829456e082bbf8d6b4d7/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/36df8a4d6f7b459f87ec324170d584a062e40441/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ba9b1fa01bb13e08bf17461ee34bf0fe5ceb034/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/chandrimaghosh/.android/build-cache/9d538497bae583e32eb370dc568f4087aab3bdec/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/chandrimaghosh/.android/build-cache/ee832aad8a51121afedffc4771fcc9d8b09e515c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/chandrimaghosh/.android/build-cache/b07508b94fb85af3a9ea45a658181fb7f465452d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/chandrimaghosh/.android/build-cache/a583da7d3565ccf9b205d111fbb5891559791848/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/chandrimaghosh/.android/build-cache/1d39937880487fe812558c92592bfdc8d659b53b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/chandrimaghosh/.android/build-cache/24d5fdde8b0cc2bc14d76b318204e96165b2727c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/chandrimaghosh/.android/build-cache/900c5619ac3cfa73c6898959c1e65e7726139f51/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/chandrimaghosh/.android/build-cache/4250230cd5eb1250d4c8715401cf3400d5fddd7e/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/chandrimaghosh/.android/build-cache/ad3a7a7d9501ef00509c199e87542c7095cbd57a/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/chandrimaghosh/.android/build-cache/ad3a7a7d9501ef00509c199e87542c7095cbd57a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/chandrimaghosh/.android/build-cache/c01d22adf85de0fa02457493a7e88a3fe3b09dd7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/chandrimaghosh/.android/build-cache/5eff4fc6a30ccd4a2b5040836602dd2b720fa489/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/chandrimaghosh/.android/build-cache/10c9b2835898eb5364662c9bfd06471a43452289/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/chandrimaghosh/.android/build-cache/7d5018e7ed31ac460330eaf868e66381e8c27f19/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/chandrimaghosh/.android/build-cache/b07508b94fb85af3a9ea45a658181fb7f465452d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/chandrimaghosh/.android/build-cache/a583da7d3565ccf9b205d111fbb5891559791848/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/chandrimaghosh/.android/build-cache/1d39937880487fe812558c92592bfdc8d659b53b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/chandrimaghosh/.android/build-cache/24d5fdde8b0cc2bc14d76b318204e96165b2727c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/chandrimaghosh/.android/build-cache/900c5619ac3cfa73c6898959c1e65e7726139f51/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/chandrimaghosh/.android/build-cache/4250230cd5eb1250d4c8715401cf3400d5fddd7e/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/chandrimaghosh/.android/build-cache/ad3a7a7d9501ef00509c199e87542c7095cbd57a/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/chandrimaghosh/.android/build-cache/ad3a7a7d9501ef00509c199e87542c7095cbd57a/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/chandrimaghosh/.android/build-cache/af145a2e9537b29e7e19b36586f824383ef70371/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/chandrimaghosh/.android/build-cache/af145a2e9537b29e7e19b36586f824383ef70371/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/chandrimaghosh/.android/build-cache/af145a2e9537b29e7e19b36586f824383ef70371/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/chandrimaghosh/.android/build-cache/af145a2e9537b29e7e19b36586f824383ef70371/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/chandrimaghosh/.android/build-cache/af145a2e9537b29e7e19b36586f824383ef70371/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/chandrimaghosh/.android/build-cache/af145a2e9537b29e7e19b36586f824383ef70371/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/chandrimaghosh/.android/build-cache/af145a2e9537b29e7e19b36586f824383ef70371/output/AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/4f8ebf33d4451889660dd84a29bfd9eac66eb52b/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/43ca160651d598fa88f8241fdd59f3d3efae846e/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/36df8a4d6f7b459f87ec324170d584a062e40441/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/4f8ebf33d4451889660dd84a29bfd9eac66eb52b/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/chandrimaghosh/.android/build-cache/08c0070b230111d4e371a13ba24c54cf716c69b3/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/chandrimaghosh/.android/build-cache/08c0070b230111d4e371a13ba24c54cf716c69b3/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/chandrimaghosh/.android/build-cache/08c0070b230111d4e371a13ba24c54cf716c69b3/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/chandrimaghosh/.android/build-cache/08c0070b230111d4e371a13ba24c54cf716c69b3/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/chandrimaghosh/.android/build-cache/08c0070b230111d4e371a13ba24c54cf716c69b3/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/chandrimaghosh/.android/build-cache/08c0070b230111d4e371a13ba24c54cf716c69b3/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/chandrimaghosh/.android/build-cache/08c0070b230111d4e371a13ba24c54cf716c69b3/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/chandrimaghosh/.android/build-cache/08c0070b230111d4e371a13ba24c54cf716c69b3/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/chandrimaghosh/.android/build-cache/08c0070b230111d4e371a13ba24c54cf716c69b3/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/a2bb996f350f6faf7922b643f64ddcd30633e469/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/a2bb996f350f6faf7922b643f64ddcd30633e469/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/a2bb996f350f6faf7922b643f64ddcd30633e469/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/a2bb996f350f6faf7922b643f64ddcd30633e469/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/a2bb996f350f6faf7922b643f64ddcd30633e469/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/a2bb996f350f6faf7922b643f64ddcd30633e469/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/a2bb996f350f6faf7922b643f64ddcd30633e469/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/a2bb996f350f6faf7922b643f64ddcd30633e469/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/chandrimaghosh/.android/build-cache/a2bb996f350f6faf7922b643f64ddcd30633e469/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/chandrimaghosh/.android/build-cache/2947e3aa47f8edb8c94b70b6eb06dffa16760e2c/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/chandrimaghosh/.android/build-cache/2947e3aa47f8edb8c94b70b6eb06dffa16760e2c/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/chandrimaghosh/.android/build-cache/2947e3aa47f8edb8c94b70b6eb06dffa16760e2c/output/AndroidManifest.xml:23:18-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/chandrimaghosh/.android/build-cache/1c73c308cc423fb5ce68b92b68d9660d76e91ce1/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/3691917fb6c9690ee3302642b385ab90b89a331f/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/chandrimaghosh/.android/build-cache/1c73c308cc423fb5ce68b92b68d9660d76e91ce1/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/chandrimaghosh/.android/build-cache/e6a68b5f3db82f5ebf83769e273cb1f3f7e84def/output/AndroidManifest.xml:30:27-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ca7df654506800eb8609c3118218673bb49f8de/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ca7df654506800eb8609c3118218673bb49f8de/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ca7df654506800eb8609c3118218673bb49f8de/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/36df8a4d6f7b459f87ec324170d584a062e40441/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/chandrimaghosh/.android/build-cache/36df8a4d6f7b459f87ec324170d584a062e40441/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/chandrimaghosh/.android/build-cache/267ed9f7b70dc6b8272bf110f18b671a2aa05478/output/AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/chandrimaghosh/.android/build-cache/4b629bf9022d54ba4f8f6ab59e753f06da3c7ac3/output/AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ba9b1fa01bb13e08bf17461ee34bf0fe5ceb034/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ba9b1fa01bb13e08bf17461ee34bf0fe5ceb034/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ba9b1fa01bb13e08bf17461ee34bf0fe5ceb034/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ba9b1fa01bb13e08bf17461ee34bf0fe5ceb034/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/chandrimaghosh/.android/build-cache/0ba9b1fa01bb13e08bf17461ee34bf0fe5ceb034/output/AndroidManifest.xml:6:79-143

@@ -1,0 +1,714 @@
+[
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/71c8e9167c6a7a15bb75c1e36c670751645ecd89/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/tile_gray.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/tile_gray.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/zero.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/zero.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/homeiconsilhouette.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/homeiconsilhouette.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/four.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/four.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/tile_background.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/tile_background.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/tile.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/tile.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/udaipur.jpg",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/udaipur.jpg"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/buttonshapeoval.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/buttonshapeoval.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/twelve.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/twelve.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/homeblue.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/homeblue.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/ad3a7a7d9501ef00509c199e87542c7095cbd57a/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/ad3a7a7d9501ef00509c199e87542c7095cbd57a/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/tricky.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/tricky.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/buttonssmallsquare.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/buttonssmallsquare.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/tile_blue.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/tile_blue.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/tile_red.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/tile_red.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/ic_collapse.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/ic_collapse.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/tic.jpg",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/tic.jpg"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/officeblock.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/officeblock.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/thumb.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/thumb.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/homepin.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/homepin.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/home.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/anim.gif",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/anim.gif"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/scroggleope.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/scroggleope.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/ad3a7a7d9501ef00509c199e87542c7095cbd57a/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/ic_expand.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/ic_expand.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/satellitecommone.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/satellitecommone.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/restartblue.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/restartblue.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/more.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/more.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/dictionar.jpg",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/dictionar.jpg"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/finalp.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/finalp.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/circlelevelgreena.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/circlelevelgreena.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/tile_available.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/tile_available.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/ad3a7a7d9501ef00509c199e87542c7095cbd57a/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_audiotrack_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/officepin.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/officepin.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/splashmemorme.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/splashmemorme.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/reloa.jpg",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/reloa.jpg"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/eight.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/eight.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/restart.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/restart.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/ocean.jpg",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/ocean.jpg"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/boy.jpg",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/boy.jpg"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/scrabblethree.jpg",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/scrabblethree.jpg"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/emergencyone.jpg",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/emergencyone.jpg"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/homeorange.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/homeorange.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/gradient.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/gradient.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/questngif.gif",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/questngif.gif"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/circlelevelred.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/circlelevelred.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/scrabbletwo.jpg",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/scrabbletwo.jpg"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/tile_empty.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/tile_empty.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/erroricontwo.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/erroricontwo.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/circlelevelyellow.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/circlelevelyellow.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/memorme.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/memorme.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/menu_background.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/menu_background.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/circlelevelblack.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/circlelevelblack.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/selector_button.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/selector_button.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_light.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/06a0c9016df28c8323894d9015424dc6d19ab63c/output/res/drawable/mr_ic_close_light.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/me.jpg",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/me.jpg"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/xando_background.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/xando_background.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/metacognitionold.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/metacognitionold.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/68719c30ca02862bfcf97566d1e5110649fc90d6/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/tile_scroggle.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/tile_scroggle.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/gri.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/gri.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/ad3a7a7d9501ef00509c199e87542c7095cbd57a/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/diarysmall.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/diarysmall.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/c0f0fc50f057d859dd28a78c2829e159a9c89b09/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/thinking_background.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/thinking_background.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/black_border_rectangle.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/black_border_rectangle.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/tile_purple.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/tile_purple.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/restartorange.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/restartorange.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable/black_border_rectangle_general.xml",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable/black_border_rectangle_general.xml"
+    }
+]

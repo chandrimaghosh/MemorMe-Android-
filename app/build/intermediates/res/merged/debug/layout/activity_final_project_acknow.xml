@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    tools:context="syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.finalProjectAcknow">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="ACKNOWLEDGEMENTS:" />
+
+
+            <TextView
+                android:id="@+id/intilleTextViewFinalProject"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="INTILLE TEXT VIEW" />
+
+            <TextView
+
+                android:id="@+id/anirudhTextViewFinalProject"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="ANIRUDH TEXT VIEW" />
+
+
+            <TextView
+
+                android:id="@+id/dharaTextViewFinalProject"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="DHARA TEXT VIEW" />
+
+            <TextView
+                android:id="@+id/otherSourcesTextViewFinalProject"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:text="OTHER SOURCES TEXT VIEW" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

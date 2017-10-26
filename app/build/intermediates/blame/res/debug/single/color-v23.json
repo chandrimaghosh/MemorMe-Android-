@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/ad3a7a7d9501ef00509c199e87542c7095cbd57a/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

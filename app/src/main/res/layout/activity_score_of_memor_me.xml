@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootViewScoreScreen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.scoreOfMemorMe">
+
+
+    <ImageView
+        android:visibility="gone"
+        android:id="@+id/highScoreDisplay"
+        android:scaleType="fitCenter"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/scoreDisplayXmlTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="80dp"
+        android:textSize="70dp"
+        android:gravity="center_horizontal" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/viewStoryScoreScreen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="VIEW DIARY" />
+
+        <Button
+            android:id="@+id/intentBackToHome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Take me back to home menu" />
+
+    </LinearLayout>
+
+</RelativeLayout>

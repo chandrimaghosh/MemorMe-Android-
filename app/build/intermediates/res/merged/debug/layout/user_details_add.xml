@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:src="@mipmap/ic_launcher" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:text="ENTER DETAILS FOR MULTIPLAYER GAME: We will use it only to search for your friends."
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/givenName"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/buttonshapeoval"
+                    android:hint="Enter your Given Name: THIS FIELD CAN'T BE LEFT EMPTY*" />
+
+                <EditText
+                    android:id="@+id/lastName"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/buttonshapeoval"
+                    android:hint="Enter your Last Name: THIS FIELD CAN'T BE LEFT EMPTY*" />
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/userDOB"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshapeoval"
+                android:hint="Enter Your Date of Birth in DD/MM/YY" />
+
+            <EditText
+                android:id="@+id/nicknameWithName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshapeoval"
+                android:hint="Choose a nickname please" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="OR"
+                android:textColor="@color/red_color"
+                android:textStyle="bold"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@+id/usersEmailId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ENTER YOUR EMAIL ID:"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/userEmailId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshapeoval"
+                android:hint="Please enter your email id: THIS FIELD CAN'T BE LEFT EMPTY *" />
+
+            <EditText
+                android:id="@+id/nicknameWithEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshapeoval"
+                android:hint="Choose a nickname please"
+                android:visibility="gone"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="OR"
+                android:textColor="@color/red_color"
+                android:textStyle="bold"
+                android:visibility="gone"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ENTER YOUR PHONE NUMBER:"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/usersPhoneNum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshapeoval"
+                android:hint="Enter your phone number without international code and without 0 prefix" />
+
+            <EditText
+                android:id="@+id/nicknameWithPhoneNum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshapeoval"
+                android:hint="Choose a nickname please"
+                android:visibility="gone"/>
+
+            <Button
+                android:id="@+id/saveUserDataButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/buttonshapeoval"
+                android:text="START 2 PLAYER GAME" />
+
+            <Button
+                android:id="@+id/twoPlayerCommAcknow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ACKNOWLEDGEMENTS"
+                android:layout_gravity="bottom"
+                android:background="@drawable/buttonshapeoval"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

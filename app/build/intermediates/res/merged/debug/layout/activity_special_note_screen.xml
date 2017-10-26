@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    android:padding="5dp"
+    tools:context="syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.specialNoteScreen">
+
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/black_border_rectangle_general"
+        android:gravity="center_horizontal"
+        android:text="RESULT CORRECT OR NOT"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:background="@drawable/black_border_rectangle_general"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:textSize="30dp"
+        android:layout_below="@+id/resultTextView"
+        android:id="@+id/specialNoteText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:visibility="gone"
+        android:background="@drawable/black_border_rectangle_general"
+        android:padding="10dp"
+        android:layout_marginTop="15dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/specialNoteText"
+        android:id="@+id/pleaseSelectAnyTag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Please select one of the following tags\n which might be the reason: "/>
+
+    <GridView
+        android:layout_marginTop="15dp"
+        android:id="@+id/tags"
+        android:numColumns="2"
+        android:layout_below="@+id/pleaseSelectAnyTag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </GridView>
+
+    <LinearLayout
+        android:id="@+id/puslishAddStoryButton"
+        android:visibility="gone"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/publishStory"
+            android:text="Publish Story to my diary and view it"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/skipPublishing"
+            android:text="skip adding story to diary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/nextQuestionButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="next question"
+        android:layout_alignParentBottom="true"/>
+
+
+</RelativeLayout>

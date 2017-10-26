@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/chandrimaghosh/.android/build-cache/8988d06c9da0ca2f07768a8913ac693fc8d8f411/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context="syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.tictactoe.MainActivity">
+
+    <!-- Was thinking of implementing voice search in the main menu but since all contents
+     are already visible in a single view, I think it is redundant
+     So I changed the visibility to gone -->
+    <SearchView
+        android:visibility="gone"
+        android:label="@string/app_name"
+        android:queryHint="Search the main menu contents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </SearchView>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/boy"
+        android:onClick="aboutMe"
+        android:text="@string/about"
+        android:textAllCaps="true"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/erroricontwo"
+        android:onClick="genError"
+        android:text="@string/error"
+        android:textAllCaps="true"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/tic"
+        android:onClick="callTicTacToe"
+        android:text="@string/TicTacToe"
+        android:textAllCaps="true"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/openDictionaryXmlID"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/dictionar"
+        android:onClick="openDict"
+        android:text="@string/Dict"
+        android:textAllCaps="true"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/wordGame"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/scrabblethree"
+        android:text="Word Game"
+        android:textAllCaps="true"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/twoPlayerComm"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="20dp"
+        android:background="@drawable/satellitecommone"
+        android:text="Communication"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/twoPlayerWordGameXmlButton"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="18dp"
+        android:background="@drawable/thumb"
+        android:text="Two Player Word Game"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/startTrickiestPart"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textAllCaps="true"
+        android:background="@drawable/tricky"
+        android:text="Trickiest Part"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:background="@drawable/finalp"
+        android:textStyle="bold"
+        android:id="@+id/launchFinalProject"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textAllCaps="true"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:text="Final Project"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/emergencyone"
+        android:onClick="quitApp"
+        android:text="@string/quit"
+        android:textAllCaps="true"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+</LinearLayout>

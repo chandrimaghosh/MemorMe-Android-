@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "568663358926",
+    "firebase_url": "https://numad17s-syedamanalam.firebaseio.com",
+    "project_id": "numad17s-syedamanalam",
+    "storage_bucket": "numad17s-syedamanalam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568663358926:android:91022742cd36ec2d",
+        "android_client_info": {
+          "package_name": "syedamanalam.madcourse.neu.edu.numad17s_syedamanalam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568663358926-sd1f4g74fq7ujjfl7unh8empinlck12q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLDD_gG1B_o6jYcjTFonAdEiY9haf1Z00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

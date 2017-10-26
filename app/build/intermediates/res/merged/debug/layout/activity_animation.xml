@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="syedamanalam.madcourse.neu.edu.numad17s_syedamanalam.finalProject.animation">
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/arrowAnim"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/anim"
+        android:background="#FFFFFF"
+        />
+
+    <TextView
+        android:layout_centerVertical="true"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Click on the three dots anytime to view your diary.Check out the preface of the diary"
+        />
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/playMemorMeAnimationButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="play memor-Me"/>
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/realTimeDataButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/playMemorMeAnimationButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginStart="110dp"
+        android:text="Show RealTimeData" />
+
+    <Button
+        android:id="@+id/instructionButton"
+        android:layout_margin="20dp"
+        android:text="Shake phone or press button for instructions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>

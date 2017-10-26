@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82B1FF"
+    android:padding="20dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/selectOfficeLocationText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Press the button below to select home location: "
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/updateTextViewWithHomeLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/selectOfficeLocationText"
+        android:layout_marginTop="10dp"
+        android:text="Selected Location: No location selected yet..."
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/selectHomeLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/submitHomeLocation"
+        android:text="Select Home Location" />
+
+    <Button
+        android:id="@+id/submitHomeLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Submit Home Location" />
+
+
+</RelativeLayout>

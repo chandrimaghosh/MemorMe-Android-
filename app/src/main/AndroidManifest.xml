@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="syedamanalam.madcourse.neu.edu.numad17s_syedamanalam"
+    android:versionCode="26"
+    android:versionName="3.4">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+        <activity android:name=".tictactoe.MainActivity" />
+        <activity
+            android:name=".Main"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".tictactoe.GameActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".AboutMeActivity">
+            android:parentActivityName=".Main"
+        </activity>
+        <activity
+            android:name=".Dictionary.dictionaryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Dictionary.Acknowledgement"
+            android:parentActivityName=".Dictionary.dictionaryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".scroggle.ScroggleMain"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".scroggle.ScroggleGameActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".scroggle.HintClassAfterNewGame"
+            android:parentActivityName=".scroggle.ScroggleMain"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".scroggle.ScrogglePhaseTwo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".scroggle.ScroggleAck"
+            android:parentActivityName=".scroggle.ScroggleMain"
+            android:screenOrientation="portrait" />
+
+        <service android:name=".twoPlayerComm.WordGameMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".twoPlayerComm.WordGameInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".finalProject.ActivityRecognizedService" />
+
+        <activity
+            android:name=".commDemo.FCMActivity"
+            android:parentActivityName=".commDemo.twoPlayerCHoice"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".commDemo.twoPlayerCHoice"
+            android:parentActivityName=".Main"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".twoPlayerComm.userDetailsAdd"
+            android:parentActivityName=".scroggle.HintClassAfterNewGame"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".twoPlayerComm.searchPlayer"
+            android:parentActivityName=".twoPlayerComm.userDetailsAdd"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".twoPlayerComm.ackTwoPlayerComm"
+            android:parentActivityName=".twoPlayerComm.userDetailsAdd"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".twoPlayerWordGame.splashScreenTwoPlayer"
+            android:parentActivityName=".Main"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".twoPlayerWordGame.twoPlayerAckActivity"
+            android:parentActivityName=".twoPlayerWordGame.splashScreenTwoPlayer"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".twoPlayerWordGame.twoPlayerGameActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".twoPlayerWordGame.twoPlayerGameTutorial"
+            android:parentActivityName=".twoPlayerWordGame.splashScreenTwoPlayer"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".twoPlayerWordGame.userDetailsAddTwoPlayer"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".twoPlayerWordGame.twoPlayerSearch"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".twoPlayerWordGame.highScoreActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".trickiestPart.trickiestPart"
+            android:parentActivityName=".Main"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".trickiestPart.UserActivityDetection"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".trickiestPart.activityRecoAck"
+            android:screenOrientation="portrait" />
+
+        <!-- Added separate icon and Launcher activity for final project -->
+        <activity
+            android:name=".finalProject.splashScreenFinalProject"
+            android:icon="@drawable/metacognitionold"
+            android:label="MAD17S-Memor-Me">
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_splash_screen_final_project"
+            android:screenOrientation="portrait"
+            android:theme="@style/FullscreenTheme"
+            <intent-filter>
+                <action android:name=".finalProject.splashScreenFinalProject" />
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".finalProject.finalProjectAcknow"
+            android:parentActivityName=".finalProject.splashScreenFinalProject"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.getOfficeLocation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.getHomeLocation"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".finalProject.prefaceDiary"
+            android:parentActivityName=".finalProject.indexOfDiary"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.loadingScreenBeforeMemoryGame"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.getUserName"
+            android:parentActivityName=".finalProject.splashScreenFinalProject"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.questionTemplate"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.Location_Manager_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.specialNoteScreen"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.scoreOfMemorMe"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.indexOfDiary"
+            android:parentActivityName=".finalProject.prefaceDiary"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.animation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.AppDescriptionScreen"
+            android:parentActivityName=".Main"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.OfficeStartTime"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.OfficeEndTime"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.DiaryPeek"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.DisplayRealtimeActivity"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".finalProject.MapsActivity"
+            android:label="@string/title_activity_maps"
+            android:parentActivityName=".Main"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.MainScreenAfterAnimation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".finalProject.Instruc"
+            android:parentActivityName=".finalProject.MainScreenAfterAnimation"
+            android:screenOrientation="portrait"></activity>
+    </application>
+
+</manifest>

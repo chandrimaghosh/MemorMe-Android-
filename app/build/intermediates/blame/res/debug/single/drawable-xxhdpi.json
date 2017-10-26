@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable-xxhdpi/x_blue.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable-xxhdpi/x_blue.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable-xxhdpi/o_red.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable-xxhdpi/o_red.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable-xxhdpi/restart.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable-xxhdpi/restart.png"
+    },
+    {
+        "merged": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/build/intermediates/res/merged/debug/drawable-xxhdpi/home.png",
+        "source": "/Users/chandrimaghosh/numad17s-syedamanalam_chandrimaghoshnew/app/src/main/res/drawable-xxhdpi/home.png"
+    }
+]

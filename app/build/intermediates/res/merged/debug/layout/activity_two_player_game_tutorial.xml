@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_color"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include
+            android:id="@+id/Scr_large1"
+            layout="@layout/small_scroggleboard"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_column="0"
+            android:layout_margin="@dimen/small_board_margin"
+            android:layout_row="0"
+            android:elevation="10dp" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/blue_color"
+            android:padding="2dp"
+            android:text="@string/intro"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_alignBottom="@+id/twoPlayerGameStartFromTutorial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue_color"
+        android:text="@string/scoring"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/twoPlayerGameStartFromTutorial"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:text="2 PLAYER WORD GAME" />
+
+</RelativeLayout>
